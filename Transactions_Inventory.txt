@@ -1,0 +1,187 @@
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 23, 2013
+Return Date: Feb 2, 2013 = Days: 0
+Full Name: Tony Strak
+Age: 38
+Location: California
+Contact: 5353533535
+Car: Van-2009
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Feb 2, 2020
+ 
+Pick up Date: Mar 2, 2019
+Return Date: Apr 4, 2019 = Days: 32
+Full Name: kelvin Wahome
+Age: 23
+Location: Ongata Rongai
+Contact: +254719196525
+Car: Bus-2007
+Total Rent Price: 22400.00 
+--------------------------------------------------
+Current Date: Oct 25, 2022
+ 
+Pick up Date: Oct 28, 2022
+Return Date: Nov 5, 2022 = Days: 0
+Full Name: Wahome Kelvin
+Age: 52
+Location: Nairobi
+Contact: 0719196525
+Car: Taxi-2002
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Feb 1, 2013
+Return Date: May 3, 2013 = Days: 92
+Full Name: Wahoe kel
+Age: 42
+Location: Nairobi
+Contact: T0799
+Car: Bus-2007
+Total Rent Price: 64400.00 
+--------------------------------------------------
+Current Date: Nov 2, 2022
+ 
+Pick up Date: Nov 2, 2022
+Return Date: Nov 10, 2022 = Days: 8
+Full Name: Kelvin Wahome
+Age: 22
+Location: Ongata Rongai
+Contact: 0719196525
+Car: Bus-2007
+Total Rent Price: 5600.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: kelvin wahome
+Age: 43
+Location: kasarani
+Contact: 0799380102
+Car: Bus-2007
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: d e
+Age: 43
+Location: Type Complete Address Here 44
+Contact: Type Contact Number Here 444
+Car: Bus-2007
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Type First Name Herevvv Type Last Name Herecd
+Age: 43
+Location: E4ER
+Contact: EEE
+Car: Pick-up-2013
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Nov 26, 2022
+ 
+Pick up Date: Nov 27, 2022
+Return Date: Nov 28, 2022 = Days: 1
+Full Name: kelvin wahome
+Age: 52
+Location: ongta rongai
+Contact: 99
+Car: Bus-2007
+Total Rent Price: 700.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Feb 1, 2013
+Return Date: Apr 1, 2013 = Days: 60
+Full Name: Eugene  Alex
+Age: 42
+Location: Rongai
+Contact: 0712345678
+Car: Bus-2007
+Total Rent Price: 42000.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: jType First Name Here hType Last Name Here
+Age: 43
+Location: hType Complete Address Here
+Contact: 077Type Contact Number Here
+Car: Bus-2007
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: uType First Name Here uType Last Name Here
+Age: 43
+Location: Type JJ Address Here
+Contact: MKP;
+Car: Taxi-2002
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Type First NOame Here Type Last KName Here
+Age: 43
+Location: TypeH Complete Address Here
+Contact: 77Type Contact Number Here
+Car: Bus-2007
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Tkype First Name Here Type Lasht Name Here
+Age: 43
+Location: 88Type Completje Address Here
+Contact: lkType Contact Number Here
+Car: Bus-2007
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Type First Nyame Here Type Last Nahme Here
+Age: 43
+Location: uj Complete Address Here
+Contact: ljl Contact Number Here
+Car: Pick-up-2013
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 1, 2013 = Days: 0
+Full Name: Type First s Here Type s Name Here
+Age: 43
+Location: Type Complete Address wee
+Contact: ee
+Car: Van-2009
+Total Rent Price: 0.00 
+--------------------------------------------------
+Current Date: Nov 24, 2022
+ 
+Pick up Date: Nov 24, 2022
+Return Date: Dec 1, 2022 = Days: 0
+Full Name: Eugene Alex
+Age: 52
+Location: NAIROBI
+Contact: 0712345678
+Car: Bus-2007
+Total Rent Price: 0.00 
+--------------------------------------------------
