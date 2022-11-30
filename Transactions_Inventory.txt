@@ -185,3 +185,25 @@ Contact: 0712345678
 Car: Bus-2007
 Total Rent Price: 0.00 
 --------------------------------------------------
+Current Date: Jan 1, 2013
+ 
+Pick up Date: Jan 1, 2013
+Return Date: Jan 2, 2013 = Days: 1
+Full Name: Type First Name Herre Type Last Namee Here
+Age: 43
+Location: eType Complete Address Here
+Contact: Type Contact Number Here3
+Car: Bus-2007
+Total Rent Price: 700.00 
+--------------------------------------------------
+Current Date: Nov 22, 2022
+ 
+Pick up Date: Nov 23, 2022
+Return Date: Dec 4, 2022 = Days: 0
+Full Name: Kelvin Wahome
+Age: 22
+Location: Nairobi
+Contact: 0712345789
+Car: Pick-up-2013
+Total Rent Price: 0.00 
+--------------------------------------------------

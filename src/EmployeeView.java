@@ -15,6 +15,7 @@ public class EmployeeView extends JFrame{
 	WarningCustomer openWarningCustomer;
 	WarningCar openWarningCar;
 
+
 	Container pane = getContentPane();
 	private JPanel mainP, reserveP, customerP, carP, finalP,employeeP;
 //////////////////////////////////////////////welcome////////////////////////////////////////////////////
